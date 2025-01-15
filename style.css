@@ -1,0 +1,60 @@
+body{
+  color: white;
+  text-align: center;
+  background-color:#848586;
+}
+
+.subheading {
+  color:white;
+  font-weight:bold
+  font-family: Georgia;
+}
+
+.heading {
+  color: white;
+  height: 50px;
+  font-weight: 800;
+  background-color: #BAA898;
+  font-family: Georgia;
+}
+
+li{
+    margin: 10px 0;
+}
+  
+.text {
+text-align: left;
+font-family: Verdana;
+}
+
+table, th, td, tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+.button {
+  background-color: #C2847A;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 30px;
+  width: 500px;
+  height:100px;
+  font-family: Georgia;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
+
+
+a.two { color:white;}
+a.two:hover {color:black;}
+a.two {font-weight: bold;}
+a.two:visited {color:white;}
+  
+
